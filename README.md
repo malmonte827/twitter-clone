@@ -2,7 +2,7 @@
 
 > A Flask-based microblogging app modeled after Twitter: signup/login, follow/unfollow, post messages, like/unlike, and edit your profile.
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/) [![Flask](https://img.shields.io/badge/flask-2.2-brightgreen)](https://flask.palletsprojects.com/)
+ [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/) [![Flask](https://img.shields.io/badge/flask-2.2-brightgreen)](https://flask.palletsprojects.com/)
 
 ---
 
